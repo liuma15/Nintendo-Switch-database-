@@ -1,0 +1,1 @@
+Constructed a database using the entity-relationship model for Nintendo Switch. Formulated queries, identified trends, patterns, and presented findings in software specification documentation and live presentation. ![Uploading image.png…]()
